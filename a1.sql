@@ -1,2 +1,3 @@
 SELECT *
-FROM t;
+FROM t
+WHERE a=1;
